@@ -8,7 +8,8 @@ A website that offers marketing services.
 * CSS
 
 ## Website
-https://xcamaj.github.io/horiseon/
+[view the webpage](https://xcamaj.github.io/horiseon/)
+![screenshot of webpage](./assets/images/screenshot-webpage.png)
 
 ## Contribution
 Made with ❤️ by Xhemajl
